@@ -119,7 +119,7 @@
                 <uix:TargetAnchorable DesignTimeRectangle="9, -4710, 1899, 9489" FriendlyName="'Explore Plusiphone'" FullSelectorArgument="&lt;webctrl parentid='container' tag='DIV' /&gt;" Guid="6e90e031-78b2-4b38-9111-0fdfac21a3fb" InformativeScreenshot="fc7e8e020d779c502eca6f7d458d45cd.png" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Iphone 11- Buy Products Online at Best Price in India - All Categories | Flipkart.com' /&gt;" SearchSteps="Selector" />
               </uix:NExtractData.Target>
             </uix:NExtractData>
-            <ui:WriteRange AddHeaders="True" DataTable="[ExtractDataTable]" DisplayName="Write Range" sap:VirtualizedContainerService.HintSize="333.6,116" sap2010:WorkflowViewState.IdRef="WriteRange_1" SheetName="Sheet1" StartingCell="A1" WorkbookPath="C:\Users\bouda\OneDrive\Dokumente\UiPath\UiPath Automate Web Data Extraction Data Scraping Extract Structured Data\iphone11-Product-Flipkart.xlsx" />
+            <ui:WriteRange AddHeaders="True" DataTable="[ExtractDataTable]" DisplayName="Write Range" sap:VirtualizedContainerService.HintSize="333.6,116" sap2010:WorkflowViewState.IdRef="WriteRange_1" SheetName="Sheet1" StartingCell="A1" WorkbookPath="iphone11-Product-Flipkart.xlsx" />
           </Sequence>
         </ActivityAction>
       </uix:NApplicationCard.Body>
